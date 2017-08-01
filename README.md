@@ -1,4 +1,4 @@
-# Kadane-s-Algorithm
+# Kadane's-Algorithm
 Kadane's Algorithm Code in Python
 Fork kadane.py for code.
 
