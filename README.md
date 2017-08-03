@@ -19,5 +19,7 @@ def Kadanes(arr):
     
     
 a = [-2, -3, 4, -1, -2, 1, 5, -3]
+
 #a = [-2, 3, 2, -1]
+
 print ("Maximum contiguous sum is : ", Kadanes(a))
